@@ -6,6 +6,8 @@
 <section> C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="image c++"height="20" widht="20"></section>
 <section> CSS <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHp85ABXnXdm4KwmaMqZ3D3H7od4RP2tDoA&s" alt="image css"height="20" widht="20"></section>
 <section> HTLM <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="image htlm"height="20" widht="20"></section>
+<section><img src="https://github-readme-stats.vercel.app/api?username=raoulpadovani&theme=dark&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raoulpadovani&theme=dark&hide_border=true"></section>
+
 
 
 <!--
