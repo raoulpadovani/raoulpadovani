@@ -2,11 +2,10 @@
 <img src="https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_1280.jpg">
 <h1>hi, i'm PADOVANI🤌 raoul </h1>
 <h1>SKILLS</h1>
-<section> C <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6qx8cm2zBCMOrwIBGxZBOjKzEkrqtNfH03w&s" alt="image c"height="20" widht="20"></section>
+<section> C <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="image c"height="20" widht="20"></section>
 <section> C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="image c++"height="20" widht="20"></section>
-<section> CSS <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHp85ABXnXdm4KwmaMqZ3D3H7od4RP2tDoA&s" alt="image css"height="20" widht="20"></section>
-<section> HTLM <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="image htlm"height="20" widht="20"></section>
-<section><img src="https://github-readme-stats.vercel.app/api?username=raoulpadovani&theme=dark&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raoulpadovani&theme=dark&hide_border=true"></section>
+<section> CSS <img src="https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png" alt="image css"height="20" widht="20"></section>
+<section> HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png"height="20" widht="20"></section>
 
 
 
