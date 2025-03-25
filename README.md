@@ -3,10 +3,8 @@
 <h1>hi, i'm PADOVANI🤌 raoul </h1>
 <h1>SKILLS</h1>
 <section>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="image c"height="20" widht="20">
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnormschurdell.com%2Fproducts%2Fhtml-css-js&psig=AOvVaw365qKlgoRJYACYXhhgjBuh&ust=1743016332766000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICorv73pYwDFQAAAAAdAAAAABAK" alt="image c"height="20" widht="20">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="image c++"height="20" widht="20">
-   <img src="https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png" alt="image css"height="20" widht="20">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png"height="20" widht="20">
 </section>
 
 
