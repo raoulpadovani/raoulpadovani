@@ -9,9 +9,6 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png"height="20" widht="20">
 </section>
 
-<h2> PROJECT </h2>
-<a href="https://raoulpadovani.github.io/portfolio2/"></a>
-
 
 
 
