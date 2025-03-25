@@ -4,10 +4,10 @@
 <h1>SKILLS</h1>
 <section>
    <section class="photo">
-      <img src="https://media.licdn.com/dms/image/v2/D5612AQFMxThwQn7HZg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697274440798?e=2147483647&v=beta&t=QLEHZgio8uRKebsNCrjEdh3rOvVmSUa7dSYgzCPBxBo" alt="image c" width ="30%">
-      <img src="https://img-c.udemycdn.com/course/750x422/5642330_9d84_2.jpg" alt="image c++" width="30%">
-      <img src="https://img-c.udemycdn.com/course/750x422/5381922_8c87.jpg" alt="image c++" width="30%">
-      <img src="https://images.prismic.io/createthrive/d5d50967-0620-4f50-9ed3-f29f132d9209_tailwind-vs-bootstrap-preview.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50" alt="image c++" width="30%">
+      <img src="https://media.licdn.com/dms/image/v2/D5612AQFMxThwQn7HZg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697274440798?e=2147483647&v=beta&t=QLEHZgio8uRKebsNCrjEdh3rOvVmSUa7dSYgzCPBxBo" alt="image c" width ="10%">
+      <img src="https://img-c.udemycdn.com/course/750x422/5642330_9d84_2.jpg" alt="image c++" width="10%">
+      <img src="https://img-c.udemycdn.com/course/750x422/5381922_8c87.jpg" alt="image c++" width="10%">
+      <img src="https://images.prismic.io/createthrive/d5d50967-0620-4f50-9ed3-f29f132d9209_tailwind-vs-bootstrap-preview.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50" alt="image c++" width="10%">
 </section>
 
 
