@@ -21,7 +21,7 @@
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raoul-padovani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raoul-padovani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raoul-padovani-3a7b23256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raoul-padovani" height="30" width="40" /></a>
 <a href="https://instagram.com/c0dw0lf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c0dw0lf" height="30" width="40" /></a>
 </p>
 
