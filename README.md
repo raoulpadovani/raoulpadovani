@@ -7,7 +7,7 @@
 
 - Création d'une cinetech avec une API Design façon Netflix. [NEXLY](https://raoul-padovani.students-laplateforme.io/cinetech/)
 
-- Création d'un site de jeux vidéo avec un panier d'achat fonctionnel et un module de connexion. [Gamemania](https://raoul-padovani.students-laplateforme.io/Gamemania/)
+- Création d'un site de Conception et développement d’un site web de gestion bancaire.
 
 - Création d'un jeu clicker sur le thème de Minecraft. [Mineclick](https://raoul-padovani.students-laplateforme.io/clicker/)
 
