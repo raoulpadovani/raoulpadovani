@@ -1,6 +1,6 @@
 
 <img src="https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_1280.jpg">
-<h1 align="center">Hello 👋, je m'appelle raoul padovani</h1>
+<h1 align="center">Hello 👋, je m'appelle PADOVANI Raoul</h1>
 <h3 align="center">Go devenir développeur d'application</h3>
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://raoulpadovani.github.io/portfolio/](https://raoulpadovani.github.io/portfolio/)
