@@ -11,7 +11,7 @@
 
 - Création d'un jeu clicker sur le thème de Minecraft. [Mineclick](https://raoul-padovani.students-laplateforme.io/clicker/)
 
-- 📫 Comment me contacter **padovaniraoul@gmail.com**
+- 📫 Comment me contacter **raoul.padovani@laplateforme.io**
 
 - 📄 Découvrez mes expériences [https://raoulpadovani.github.io/portfolio/asset/pdf/cv%20raoul.pdf](https://raoulpadovani.github.io/portfolio/asset/pdf/cv%20raoul.pdf)
 
