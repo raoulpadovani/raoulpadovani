@@ -5,7 +5,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://raoulpadovani.github.io/portfolio/](https://raoulpadovani.github.io/portfolio/)
 
-- Création d'un site de Conception et développement d’un site web de gestion bancaire.[NOVABANK](https://raoul-padovani.students-laplateforme.io)
+- Création d'un site de Conception et développement d’un site web de gestion bancaire.[NovaBank](https://raoul-padovani.students-laplateforme.io)
 
 - Création d'un jeu clicker sur le thème de Minecraft. [Mineclick](https://raoul-padovani.students-laplateforme.io/clicker/)
 
